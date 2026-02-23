@@ -1,9 +1,7 @@
 # 🧍 Human Activity Recognition using Random Forest 🤖  
 ![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python) ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-blue?logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-Random%20Forest%20%7C%20ML-orange?logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?logo=python) ![Seaborn](https://img.shields.io/badge/Seaborn-Stats%20Plots-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2970/2970785.png" alt="Human Activity Recognition Logo" width="140"/>
-</p>
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" alt="Human Activity Recognition Logo" width="140"/> </p>
 
 🚀 This project builds a **Random Forest classifier** to recognize human activities from smartphone sensor data. Using the UCI HAR dataset, it classifies six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) with **~99% accuracy**. The pipeline includes data preprocessing, feature scaling, model training, and comprehensive evaluation with confusion matrix and classification report.
 
