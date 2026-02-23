@@ -82,13 +82,13 @@ Human-Activity-Recognition-RandomForest/
 
 ## 🖼️ Interface Previews
 
-| 📝 Classification Report | 📊 Confusion Matrix |
-|:------------------------:|:-------------------:|
-| ![Classification Report](assets/classification_report.JPG) | ![Confusion Matrix](assets/confusion_matrix.JPG) |
+| 📝 Code Snippet | 📊 Classification Report |
+|:---------------:|:------------------------:|
+| ![Code Snippet](assets/code.JPG) | ![Classification Report](assets/classification_report.JPG) |
 
-## 📈 Evaluation Results
-
-![Evaluation Results](assets/evaluation_result.JPG)
+| 📉 Confusion Matrix | 📈 Evaluation Results |
+|:-------------------:|:---------------------:|
+| ![Confusion Matrix](assets/confusion_matrix.JPG) | ![Evaluation Results](assets/evaluation_result.JPG) |
 ---
 
 ## 💡 About the Project
